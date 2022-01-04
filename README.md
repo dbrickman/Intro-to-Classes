@@ -1,2 +1,2 @@
 # Intro-to-Classes
-Learning classes in pythong with Aniamals-Books-Vehicles
+Learning classes in python with Aniamals-Books-Vehicles
